@@ -18,6 +18,6 @@ I am open to collaborating on projects that involve innovative and challenging t
 ## 📫 How to reach me
 - Twitter: [@devdavix](https://twitter.com/devdavix)
 - GitHub: [devdavix2](https://github.com/devdavix2)
-- Gmai: devdavixx@gmail.com
+- Gmail: devdavixx@gmail.com
 
 Feel free to connect with me! I'm always open to interesting discussions and new opportunities.
