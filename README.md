@@ -9,8 +9,6 @@ I am a full-stack developer passionate about creating robust and user-friendly w
 - **Database:** MongoDB, MySQL
 - **Others:** Git, GitHub, VS Code
 
-## 🌱 I’m currently learning
-I am currently focusing on mastering React and Node.js to build dynamic and responsive web applications. Additionally, I am exploring best practices in UI/UX design to create intuitive user interfaces.
 
 ## 👯 I’m looking to collaborate on
 I am open to collaborating on projects that involve innovative and challenging technologies. Feel free to reach out if you have any exciting opportunities for collaboration.
