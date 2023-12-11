@@ -1,7 +1,7 @@
 # Hi there, I'm DevDavix! 👋
 
 ## 👨🏻‍💻 About Me
-I am a full-stack developer passionate about creating robust and user-friendly web applications. I enjoy delving into new technologies and solving complex problems to create meaningful solutions.
+I thrive as a Front-End Developer, dedicated to crafting robust, user-centric web applications. My passion lies in exploring cutting-edge technologies, unraveling intricate challenges, and fashioning impactful solutions.
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React
